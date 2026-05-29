@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingvender",
+        "uuid": 28519533,
+        "checksum": "kpkve"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
